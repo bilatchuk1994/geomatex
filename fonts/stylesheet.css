@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Bliss Pro';
+    src: url('BlissPro.woff2') format('woff2'),
+        url('BlissPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
